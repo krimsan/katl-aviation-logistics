@@ -1,6 +1,3 @@
-# katl-aviation-logistics
-SAS analysis modeling operational efficiency at KATL
-
 # Commercial Aviation Logistics & Operational Efficiency Analysis (KATL)
 
 ## Project Overview
