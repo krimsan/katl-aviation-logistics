@@ -1,7 +1,7 @@
-# Commercial Aviation Logistics & Operational Efficiency Analysis (KATL)
+# Evaluating Operational Efficiency at Hartsfield-Jackson Atlanta International Airport
 
 ## Project Overview
-This project evaluates operational efficiency at Hartsfield-Jackson Atlanta International Airport (KATL). Using statistical methodologies, I analyzed factors impacting departure and arrival delays.
+This project evaluates operational efficiency at Hartsfield-Jackson Atlanta International Airport (KATL). Using statistical methods, I analyzed factors impacting departure and arrival delays.
 
 ## Methodologies & Statistical Tools Used
 * **Software/Language:** SAS
@@ -9,8 +9,8 @@ This project evaluates operational efficiency at Hartsfield-Jackson Atlanta Inte
 * ** Multiple Linear Regression:** Constructed predictive models to isolate statistically significant variables influencing arrival delays
 
 ## Key Insights
-* Determined that operational efficiency at KATL is heavily influenced by carrier-specific logistics rather than airport infrastructure or temporal bottlenecks
+* Determined that operational efficiency at KATL is more influenced by carrier-specific logistics than airport infrastructure or temporal bottlenecks
 
 ## Repository Contents
-* 'RoebuckK KATL Project.sas': Main analytical code script
+* 'RoebuckK KATL Project.sas': Main code script
 * 'RoebuckK KATL Operational Efficiency Project Report.pdf': Comprehensive report containing data visualizations and SAS outputs
